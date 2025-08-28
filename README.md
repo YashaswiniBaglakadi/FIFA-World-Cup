@@ -14,7 +14,7 @@ This dashboard provides insights into the history of the **FIFA World Cup (1930�
 - Data Visualization, Comparative Analysis
 
 ## 🖼️ Dashboard Preview
-
+![Dashboard](https://github.com/YashaswiniBaglakadi/FIFA-World-Cup/tree/70c81ab2423c948d9c145fcbf6d953bc4374cc70/Dashboard)
 
 ## 📂 File
 - (https://github.com/YashaswiniBaglakadi/FIFA-World-Cup/tree/105e71426464c7a4b5f0f878ddc206ae538a19da/FIFA)
